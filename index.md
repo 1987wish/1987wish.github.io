@@ -1,14 +1,14 @@
 ---
 layout: default
-title: "Jihye Leee"
+title: "GWAN NAMGOONG"
 main: true
-subtitle: UI Designer Jihye Leee at RIDI
-description: Jihye Leee, who is a Product Designer based in Seoul, South Korea focused on UI/UX, interaction. | '이지혜' UI 디자이너입니다. 리디에서 일합니다.
+subtitle: Web Dev GWAN NAMGOONG
+description: GWAN NAMGOONG
 ---
 <div class="intro-animation">
 <section class="explanation">
     <h1 class="intro">
-    I'm Jihye Leee,
+    I'm GWAN NAMGOONG,
     </h1>
     <h1 class="intro">a Digital Product Designer at 
         <div class="intro-link">
@@ -19,7 +19,7 @@ description: Jihye Leee, who is a Product Designer based in Seoul, South Korea f
             <div class="underline"></div>
         </div>.
     </h1>
-    <h2 class="intro">'이지혜' 디지털 프로덕트 디자이너입니다. 리디에서 일합니다.</h2>
+    <h2 class="intro">'남궁관' 웹프로그래머입니다.</h2>
 </section>
 </div>
 
